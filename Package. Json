@@ -1,0 +1,15 @@
+{
+  "name": "botwa",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp menggunakan Baileys dan Node-Cron",
+  "main": "Grup.js",
+  "scripts": {
+    "start": "node Grup.js"
+  },
+  "author": "xzrill",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^5.4.0",
+    "node-cron": "^3.0.2"
+  }
+}
